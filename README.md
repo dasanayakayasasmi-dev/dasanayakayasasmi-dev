@@ -1,28 +1,14 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">My</a>'s Profile 👋</h1>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
-</p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<ul>
-  <li>👋 Hi, I’m Arani</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, [https://mrbluebird2.github.io](https://github.com/dasanayakayasasmi-dev</li>
-</ul>
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
+<h1 align="center"> Hi! I'm Arani Dasanayaka <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-#### A little more about me
-```javascript
-const badri = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
-  }
-}
-```
+I'm Arani Pasqual, a passionate Software Engineering student 💻.
+
+<!-- TODO: Add last video link -->
+
+- :seedling: I’m currently learning about TypeScript....
+- :computer: Most used line of code `git commit -m "Initial Commit"`....
+- 🤔 I’m looking for an internship....
+- :speech_balloon: Ask me about anything....
+- 😄 Pronouns: She/Her....
