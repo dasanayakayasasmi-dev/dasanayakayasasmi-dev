@@ -73,7 +73,6 @@ I'm Arani Pasqual, a passionate Software Engineering student 💻.
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-----
-Credit: [AnhellO](https://github.com/AnhellO)
+
 
 Last Edited on: 09/06/2026
